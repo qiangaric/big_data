@@ -1,0 +1,3 @@
+# 给用户授权
+set role admin;
+grant select on table zichan360bi_ods.withdraw_bak to user xiaogao;
